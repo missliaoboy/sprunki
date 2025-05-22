@@ -1,51 +1,49 @@
-# Sprunki Incredibox - 粉丝自制音乐混音游戏  
+# Sprunki Phase 10 - Fan-Made Music Mixing Game  
 
-🚀 **在线播放：** [https://gosprunki.com/sprunki-incredibox](https://gosprunki.com/sprunki-incredibox)  
+🚀 **Play Online:** [https://gosprunki.net/sprunki-phase-10](https://gosprunki.net/sprunki-phase-10)  
 
-## 概述  
-Sprunki Incredibox 是一个**合法的粉丝自制修改版**，基于受欢迎的音乐游戏 Incredibox。这个非商业项目提供：  
-- 新原创音效循环和旋律  
-- 独特的角色设计  
-- 基于网页的游戏玩法（无需下载）  
-- 创意共享许可内容  
+## Overview  
+Sprunki Phase 10 is a **legitimate fan-made version** inspired by popular music games. This non-commercial project offers:  
+- Original sound loops and melodies  
+- Unique character designs  
+- Web-based gameplay (no download needed)  
 
-##主要特点  
-✔ **扩展音乐库**  
-- 50+ 新的 beatboxing 声音  
-- 多种音乐流派  
-- 隐藏的彩蛋  
+## Key Features  
+✔ **Expanded Music Library**  
+- 50+ new beatboxing sounds  
+- Multiple music genres  
+- Hidden easter eggs  
 
-✔ **增强游戏体验**  
-- 拖放界面  
-- 实时混合  
-- 可分享的创作  
+✔ **Enhanced Gameplay**  
+- Drag-and-drop interface  
+- Real-time mixing  
+- Shareable creations  
 
-✔ **社区驱动**  
-- 由Incredibox粉丝创作  
-- 常规粉丝更新  
-- 无盈利  
+✔ **Community Driven**  
+- Created by Sprunki fans  
+- Regular updates  
+- Non-profit  
 
-## 如何玩  
-1. 访问 [gosprunki.com](https://gosprunki.com)  
-2. 将音效拖放到角色上  
-3. 创建你完美的混合  
-4. 分享你的作品  
+## How to Play  
+1. Visit [https://gosprunki.net/sprunki-phase-10](https://gosprunki.net/sprunki-phase-10)  
+2. Drag sounds onto characters  
+3. Create your perfect mix  
+4. Share your creation  
 
-## 技术细节  
-- **平台：** 网页 (HTML5/JavaScript)  
-- **兼容性：** Chrome，Firefox，Edge  
-- **文件大小：** <5 MB  
-输入：- ** 要求：** 支持 Web Audio API  
+## Technical Details  
+- **Platform:** Web (HTML5/JavaScript)  
+- **Compatibility:** Chrome, Firefox, Edge  
+- **File Size:** <5MB  
+- **Requirements:** Web Audio API support  
 
-## 相关项目  
-| 游戏 | 描述 |  
+## Related Games  
+| Game | Description |  
 |------|-------------|  
-| [Sprunki Tennis](https://gosprunki.org/sprunki-tennis) | 体育小游戏 |  
-| [Flappy Sprunki](https://gosprunki.org/flappy-sprunki-endless-flying) | 无尽跑酷 |  
-| [3D逃脱](https://gosprunki.org/sprunki-3d-escape) | 拼图冒险 |  
+| [Sprunki Phase 7](/sprunki-phase-7) | Classic music mixing |  
+| [Sprunki Phase 13](/sprunki-phase-13) | Advanced version |  
+| [Sprunki Phase 3](/sprunki-phase-3) | Original fan favorite |  
 
-## 法律声明  
-这是一个**非官方**的教育项目。所有资产都是：  
-- 原创作品  
-- 正确归因  
-输入：- 根据合理使用原则使用  
+## Legal Notice  
+This is an **unofficial** educational project. All assets are:  
+- Original creations  
+- Properly attributed  
